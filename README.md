@@ -1,5 +1,6 @@
-Nhóm 6 : 
-  - Hoàng Việt Anh
+
+  Tác giả : Hoàng Việt Anh - 18020167
+  Thành viên : 
   - Trần Đức Anh
   - Dương Đình Bình
   - Trần Quốc Khánh
